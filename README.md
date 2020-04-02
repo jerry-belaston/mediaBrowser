@@ -6,9 +6,9 @@ Copyright (C) 2020, Jerry Belaston
 
 ## Overview
 
-**As a response to the first exercice of the technical test** (more info in [doc](doc) folder), this demo provides the following features:
+**As a response to the first exercice of a company's technical test** (more info in [doc](doc) folder), this demo provides the following features:
 * File System Browser (based on QtTreeView/QFileSystemBrowser) with the possibility of displaying only image/video if needed.
-* Media vizualization with classical play/pause/move actions (based on QMediaPlayer)
+* Media visualization with classical play/pause/move actions (based on QMediaPlayer)
 * Metadata browser (based on the qtTreePropertyBrowser component retrieved from the Qt sources) allowing to display media metada including exif info
 * Video & Audio spectrum analyser (retrieved and customed from internet)
 * Quick Logger (based on QTextEditor) allowing to track media player states.
@@ -16,6 +16,10 @@ Copyright (C) 2020, Jerry Belaston
 The following requirements have not been implemented :
 
 * Filtering of files regarding analysis results
+
+The following requirements need some improvement
+
+* Extraction of exif info (QMediaPlayer seems not relevant for that)
 
 ## Change log
 
