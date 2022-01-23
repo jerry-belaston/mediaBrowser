@@ -19,6 +19,7 @@ Note that `QMediaPlayer` is used to extract metadata. Unfortunately, it doesn't 
 
 ## Change log
 
+v1.0.1 - 23/01/2022 - Update of compilation requirements
 v1.0.0 - 30/03/2020 - First demo sample
 
 ## Demo (binary app)
@@ -30,9 +31,9 @@ v1.0.0 - 30/03/2020 - First demo sample
 ## Minimum requirements for compilation
 
 - Windows 10
-- CMake 3.15.2
-- Visual Studio 2019 16.4.2 (using platform toolset v142)
-- Qt 5.15.0 (including MSVC 2019 32bits compiler and Qt Sources)
+- CMake 3.22.1
+- Visual Studio 2019 16.11.9 (using platform toolset v142)
+- Qt 5.15.2 (including MSVC 2019 32bits compiler and Qt Sources)
 
 ## Compilation
 
