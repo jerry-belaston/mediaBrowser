@@ -9,7 +9,7 @@ Copyright (C) 2020, Jerry Belaston
 This C++ media browser appplication is a simple demonstration of the use of some basic and customized Qt widgets. 
 
 The following features are implemented:
-- File System Browser: based on `QtTreeView`/`QFileSystemBrowser`, allows to browse files with the option to filter image/video if needed.
+- File System Broser: based on `QtTreeView`/`QFileSystemBrowser`, allows to browse files with the option to filter image/video if needed.
 - Media vizualization: based on `QMediaPlayer`, allows standard play/pause/move actions.
 - Metadata browser: based on `qtTreePropertyBrowser` (from Qt sources), allows to organize the display of media metadata.
 - Video & Audio spectrum analyzer: retrieved and customed from internet, shows how to draw in a `QDevice` using `QPainter`.
